@@ -1,0 +1,12 @@
+C:\Users\Rishav\source\proxy_settings\proxy_settings\obj\Debug\proxy_settings.csprojResolveAssemblyReference.cache
+C:\Users\Rishav\source\proxy_settings\proxy_settings\obj\Debug\proxy_settings.Form1.resources
+C:\Users\Rishav\source\proxy_settings\proxy_settings\obj\Debug\proxy_settings.Properties.Resources.resources
+C:\Users\Rishav\source\proxy_settings\proxy_settings\obj\Debug\proxy_settings.csproj.GenerateResource.cache
+C:\Users\Rishav\source\proxy_settings\proxy_settings\obj\Debug\proxy_settings.csproj.CoreCompileInputs.cache
+C:\Users\Rishav\source\proxy_settings\proxy_settings\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rishav\source\proxy_settings\proxy_settings\obj\Debug\proxy_settings.csproj.CopyComplete
+C:\Users\Rishav\source\proxy_settings\proxy_settings\bin\Debug\NewUI.exe.config
+C:\Users\Rishav\source\proxy_settings\proxy_settings\bin\Debug\NewUI.exe
+C:\Users\Rishav\source\proxy_settings\proxy_settings\bin\Debug\NewUI.pdb
+C:\Users\Rishav\source\proxy_settings\proxy_settings\obj\Debug\NewUI.exe
+C:\Users\Rishav\source\proxy_settings\proxy_settings\obj\Debug\NewUI.pdb
